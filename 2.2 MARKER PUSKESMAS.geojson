@@ -3,157 +3,213 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pembantu sinduadi",
+        "alamat": "Rogoyudan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55242"
+      },
       "geometry": {
         "coordinates": [
           110.35792268026131,
           -7.76882726141929
         ],
         "type": "Point"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS tegalrjo",
+        "alamat": "Jl. Magelang No.180 Km.2, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55242"
+      },
       "geometry": {
         "coordinates": [
           110.3615682760173,
           -7.772599926456365
         ],
         "type": "Point"
-      }
+      },
+      "id": 1
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pembantu bener",
+        "alamat": "Jl. Bener No.48, Bener, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55243"
+      },
       "geometry": {
         "coordinates": [
           110.35346693207873,
           -7.776773897685345
         ],
         "type": "Point"
-      }
+      },
+      "id": 2
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS jetis",
+        "alamat": "Jl. Pangeran Diponegoro No.91, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+      },
       "geometry": {
         "coordinates": [
           110.36230683532926,
           -7.783069124522498
         ],
         "type": "Point"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pembantu tegalrejo",
+        "alamat": "Jl. Tompeyan No.218, Tegalrejo, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55244"
+      },
       "geometry": {
         "coordinates": [
           110.35533967897538,
           -7.783791528240968
         ],
         "type": "Point"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pembantu",
+        "alamat": "Jl. Tentara Rakyat Mataram No.11, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+      },
       "geometry": {
         "coordinates": [
           110.35736500622136,
           -7.787965379425941
         ],
         "type": "Point"
-      }
+      },
+      "id": 5
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pembantu Gondongyengen",
+        "alamat": "Jl. Pringgokusuman No.30, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55272"
+      },
       "geometry": {
         "coordinates": [
           110.3572569885626,
           -7.79117601461526
         ],
         "type": "Point"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS DEPOK 3",
+        "alamat": "Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+      },
       "geometry": {
         "coordinates": [
           110.38962863349536,
           -7.778356894225595
         ],
         "type": "Point"
-      }
+      },
+      "id": 7
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS danurejan 2",
+        "alamat": " Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      },
       "geometry": {
         "coordinates": [
           110.37791842243291,
           -7.788434842230487
         ],
         "type": "Point"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSESMAS gondokusuman 1",
+        "alamat": "Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"
+      },
       "geometry": {
         "coordinates": [
           110.38075300740599,
           -7.793644843803918
         ],
         "type": "Point"
-      }
+      },
+      "id": 9
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS umbul hardjo 2",
+        "alamat": "Jl. Hibrida No.194, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165"
+      },
       "geometry": {
         "coordinates": [
           110.38964016164078,
           -7.800179197824647
         ],
         "type": "Point"
-      }
+      },
+      "id": 10
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS pakualaman",
+        "alamat": "Jl. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+      },
       "geometry": {
         "coordinates": [
           110.371952382021,
           -7.799539202215826
         ],
         "type": "Point"
-      }
+      },
+      "id": 11
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS gondongtengen",
+        "alamat": "Jl. Pringgokusuman No.30, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55272"
+      },
       "geometry": {
         "coordinates": [
           110.35856184411489,
           -7.791473457200283
         ],
         "type": "Point"
-      }
+      },
+      "id": 12
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "puskesmas ngampilan",
+        "alamat": "JL. Munir Serangan Blok.NG.II No.215, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262"
+      },
       "geometry": {
         "coordinates": [
           110.35671623918353,
           -7.795458632250231
         ],
         "type": "Point"
-      }
+      },
+      "id": 13
     },
     {
       "type": "Feature",
@@ -168,80 +224,108 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS tegal mulyo",
+        "alamat": "Jl. Tegalmulyo No.I, Pakuncen, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55253"
+      },
       "geometry": {
         "coordinates": [
           110.3505565101629,
           -7.795221082951073
         ],
         "type": "Point"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS danurejan 1",
+        "alamat": "Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      },
       "geometry": {
         "coordinates": [
           110.37522417970376,
           -7.794532017732266
         ],
         "type": "Point"
-      }
+      },
+      "id": 16
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSKESMAS gondokusuman 2",
+        "alamat": "Jl. DR. Sardjito No.22, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223"
+      },
       "geometry": {
         "coordinates": [
           110.3709997764438,
           -7.778633880631659
         ],
         "type": "Point"
-      }
+      },
+      "id": 17
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "PUSTU (Puskesmas Pembantu) NOGOTIRTO",
+        "alamat ": " Nogosaren, Nogotirto, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55592"
+      },
       "geometry": {
         "coordinates": [
           110.33516335174824,
           -7.774582352873239
         ],
         "type": "Point"
-      }
+      },
+      "id": 18
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "Puskesmas Gamping II",
+        "alamat": "Jl. Titibumi Barat, Patran, Banyuraden, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55293"
+      },
       "geometry": {
         "coordinates": [
           110.33780683493438,
           -7.783103405028598
         ],
         "type": "Point"
-      }
+      },
+      "id": 19
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas": "Puskesmas Jagalan Banguntapan I",
+        "alamat": "Jagalan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55192"
+      },
       "geometry": {
         "coordinates": [
           110.39815610474426,
           -7.827390441287164
         ],
         "type": "Point"
-      }
+      },
+      "id": 20
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama puskesmas ": "Puskesmas Jagalan Banguntapan II",
+        "alamat": "Jl. Mondorakan No.41, Bodon, Jagalan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55192"
+      },
       "geometry": {
         "coordinates": [
           110.3958467750299,
           -7.827467596846901
         ],
         "type": "Point"
-      }
+      },
+      "id": 21
     }
   ]
 }
